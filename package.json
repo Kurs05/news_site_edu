@@ -1,0 +1,28 @@
+{
+  "name": "news_site_edu",
+  "version": "1.0.0",
+  "description": "news_site",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kurs05/news_site_edu.git"
+  },
+  "author": "Kurs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kurs05/news_site_edu/issues"
+  },
+  "homepage": "https://github.com/Kurs05/news_site_edu#readme",
+  "devDependencies": {
+    "eslint": "^9.37.0",
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0"
+  }
+}
